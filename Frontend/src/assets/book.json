@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "The Hidden Truth",
+    "author": "James Carter",
+    "category": "Thriller",
+    "freeOrPaid": "paid",
+    "price": 11.99,
+    "description": "A gripping story about secrets buried deep within a small town.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Learn Node.js",
+    "author": "Samantha Gray",
+    "category": "Programming",
+    "freeOrPaid": "paid",
+    "price": 15.5,
+    "description": "A practical approach to backend development using Node.js.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Calm Mind",
+    "author": "Eliza Jones",
+    "category": "Self-help",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Simple steps to help you reduce anxiety and live peacefully.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 4,
+    "name": "React Basics",
+    "author": "Michael Brown",
+    "category": "Programming",
+    "freeOrPaid": "paid",
+    "price": 9.99,
+    "description": "An easy introduction to building web apps using React.js.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Art of Negotiation",
+    "author": "Grace Liu",
+    "category": "Business",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Master the techniques of winning negotiations without conflict.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Space Chronicles",
+    "author": "Ben Walker",
+    "category": "Science",
+    "freeOrPaid": "paid",
+    "price": 13.25,
+    "description": "Explore the latest discoveries and theories about our universe.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Yoga for Beginners",
+    "author": "Nina Patel",
+    "category": "Health",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Step-by-step yoga routines designed for complete beginners.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 8,
+    "name": "World History Overview",
+    "author": "Oliver Smith",
+    "category": "History",
+    "freeOrPaid": "paid",
+    "price": 18.0,
+    "description": "A comprehensive look into major global events from ancient to modern times.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Budget Cooking",
+    "author": "Emily Johnson",
+    "category": "Cooking",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Delicious meals you can cook on a tight budget.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Mountain's Echo",
+    "author": "Lucas Green",
+    "category": "Fiction",
+    "freeOrPaid": "paid",
+    "price": 10.5,
+    "description": "A tale of adventure and discovery set in the Himalayan peaks.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mastering Git & GitHub",
+    "author": "Priya Rao",
+    "category": "Programming",
+    "freeOrPaid": "paid",
+    "price": 8.99,
+    "description": "Everything you need to know to work with version control like a pro.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mental Fitness",
+    "author": "Jacob White",
+    "category": "Self-help",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Train your mind the way you train your body.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 13,
+    "name": "The Start-Up Path",
+    "author": "Karan Desai",
+    "category": "Business",
+    "freeOrPaid": "paid",
+    "price": 14.0,
+    "description": "Lessons and strategies from top entrepreneurs.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Plant-Based Cooking",
+    "author": "Sophia Lee",
+    "category": "Cooking",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Tasty and healthy plant-based recipes for everyday meals.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Python Made Easy",
+    "author": "John Clarke",
+    "category": "Programming",
+    "freeOrPaid": "paid",
+    "price": 12.75,
+    "description": "A beginner-friendly guide to learning Python step by step.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Unlocking Productivity",
+    "author": "Maya Vance",
+    "category": "Self-help",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Tips and tricks to get more done in less time.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Silent River",
+    "author": "Arjun Menon",
+    "category": "Fiction",
+    "freeOrPaid": "paid",
+    "price": 9.25,
+    "description": "A haunting mystery that unfolds along the banks of a quiet river.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Basics of Investing",
+    "author": "Nora James",
+    "category": "Finance",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Understand stocks, bonds, and other investments without confusion.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 19,
+    "name": "HTML & CSS Crash Course",
+    "author": "Liam Martinez",
+    "category": "Programming",
+    "freeOrPaid": "paid",
+    "price": 7.5,
+    "description": "Design beautiful and functional websites using HTML and CSS.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Everyday Mindfulness",
+    "author": "Riya Mehta",
+    "category": "Self-help",
+    "freeOrPaid": "free",
+    "price": 0,
+    "description": "Simple ways to bring mindfulness into your daily routine.",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+  }
+]
